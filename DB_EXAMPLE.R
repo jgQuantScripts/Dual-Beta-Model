@@ -1,4 +1,4 @@
-require("quantmod");require("PerformanceAnaltics")
+require("quantmod");require("PerformanceAnalytics")
 
 TICS = c("TSLA","AAPL","TLT","FB","HYG","VCSH","EEM")
 SEC <- c("SPY",TICS)
